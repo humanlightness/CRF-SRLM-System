@@ -25,7 +25,6 @@ CRF  — Consciousness Resonance Framework
           └ SRC — Self-Referential Consciousness Coordinates
               └ SRLM — Structured Resonant Language Model
 
-
 ---
 
 ## CAP Coordinate System
